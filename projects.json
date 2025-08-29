@@ -1,0 +1,172 @@
+[
+  {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged Android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, and MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "SPPU Engg Prep",
+    "desc": "All-in-one SPPU Engineering resources. Built using Java, XML, and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native Android app built using Java and XML. Includes Retrofit and Glide dependencies to provide news across various categories.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native Android app built using Java, XML, and Volley dependencies. Provides weather forecasts.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "Full-stack Flipkart clone with an admin dashboard and Paytm payment gateway. Built with the MERN stack.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "A basic ReactJS resume generator that helps users create customized resumes in minutes.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "A full-stack project dashboard that showcases projects built using React.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-stack Flipkart clone built using the LAMP stack, with OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "A website to showcase all major JavaScript projects in one place.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Web UI Clones",
+    "desc": "Flipkart, YouTube, Instagram, and SoloLearn web UI clones using TailwindCSS.",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Crypto Tracker",
+    "desc": "A crypto tracker built using ReactJS and Chakra UI, featuring dark mode and data from the CoinGecko API.",
+    "image": "cryptotracker",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Hulu Website",
+    "desc": "A Hulu clone website built using NextJS and TailwindCSS. Data sourced from the TMDB API and deployed on Vercel.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Composey Website",
+    "desc": "A simple landing page built using HTML, CSS, JavaScript, and JavaScript libraries.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Webview App",
+    "desc": "An Android app using the WebView component to display content, offering various features.",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "PHP Banking Website",
+    "desc": "A basic banking system based on PHP and MySQL, featuring HTML, CSS, and JavaScript frontend.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "A portfolio website built using HTML, CSS, Bootstrap, and SCSS. Features a customized Bootstrap theme.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "A basic burger shop webpage featuring a menu, pricing, and a dummy order form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
